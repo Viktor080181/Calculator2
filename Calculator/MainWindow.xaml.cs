@@ -8,6 +8,7 @@ namespace Calculator
     {
         public MainWindow()
         {
+			// Some comment
             InitializeComponent();
         }
 
